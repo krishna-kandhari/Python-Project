@@ -1,0 +1,25 @@
+{
+    "krish": {
+        "full_name": "krish",
+        "password": "b453c76973660b9600936cb2ce6a39b377c74cdee505cdf2830b75f3bf643d22",
+        "pin": "2345",
+        "contacts": [
+            {
+                "name": "National Emergency",
+                "phone": "112"
+            },
+            {
+                "name": "Women Helpline",
+                "phone": "1091"
+            },
+            {
+                "name": "Police",
+                "phone": "100"
+            },
+            {
+                "name": "7780894232",
+                "phone": "+917780894232"
+            }
+        ]
+    }
+}
